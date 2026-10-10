@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.matplotlib/
+docs/
+mlflow.db
+mlartifacts/
+mlruns/
+selected_run.json
+best.pt
+
+# LaTeX build artifacts (keep .tex and final .pdf)
+report/*.aux
+report/*.fdb_latexmk
+report/*.fls
+report/*.log
+report/*.out
+report/*.toc
+

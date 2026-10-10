@@ -1,0 +1,7 @@
+mlflow>=3,<4
+optuna>=4,<6
+scikit-learn>=1.6,<2
+pandas>=2,<4
+numpy>=2,<3
+torch>=2.6,<3
+
